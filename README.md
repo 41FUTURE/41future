@@ -12,7 +12,7 @@
 - ***🌱 I’m currently learning Python, Ruby on rails  and React***  
   
 
-- ***❓ Ask me about anything related  related technologies***  
+- ***❓ Ask me about anything  related to  technologies***  
   
 
 - **⚡ Fun fact: I use tabs over spaces**  
