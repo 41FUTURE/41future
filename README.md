@@ -3,16 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Ayhem, a full-time full-stack developer 👨‍💻</div>  
+### <div align="center">I'm Ayhem, I am a fullstack develope 👨‍💻</div>  
   
-
-- **🗾Tokyo**  
   
-
 - ***🌱 I’m currently learning Python, Ruby on rails  and React***  
   
 
-- ***❓ Ask me about anything  related to  technologies***  
+- ***❓feel free to  reach out to me any time! 💬***  
   
 
 - **⚡ Fun fact: I use tabs over spaces**  
