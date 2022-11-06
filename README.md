@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ayhem, I am a fullstack develope 👨‍💻</div>  
+### <div align="center">I'm Ayhem, I am a fullstack developer 👨‍💻</div>  
   
   
 - ***🌱 I’m currently learning Python, Ruby on rails  and React***  
