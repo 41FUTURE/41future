@@ -6,13 +6,10 @@
 ### <div align="center">I'm Ayhem, I am a fullstack developer 👨‍💻</div>  
   
   
-- ***🌱 I’m currently learning Python, Ruby on rails  and React***  
+- ***🌱 I’m currently learning Ruby on rails  and React***  
   
 
 - ***❓feel free to  reach out to me any time! 💬***  
-  
-
-- **⚡ Fun fact: I use tabs over spaces**  
   
 
 <br/>  
