@@ -10,6 +10,8 @@
   
 
 - ***❓feel free to  reach out to me any time! 💬***  
+- ****Projects i made just as  practice 
+- https://netbiz.herokuapp.com/
   
 
 <br/>  
