@@ -1,16 +1,12 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
-  
+
 
 ### <div align="center">I'm Ayhem, I am a fullstack developer 👨‍💻</div>  
   
   
-- ***🌱 I’m currently learning Ruby on rails  and React***  
+- *** I’m currently learning Ruby on rails  and React***  
   
 
-- ***❓feel free to  reach out to me any time! 💬***  
-- ****Projects i made just as  practice 
+- ***feel free to  reach out to me any time! 💬***  
 - https://netbiz.herokuapp.com/
   
 
