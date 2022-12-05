@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on https://not-alone-na.herokuapp.com/ / https://homestopia-airbnb.herokuapp.com/ <br>👯 I’m looking to collaborate on WanCares  <br>🌱 I’m currently learning React,Python<br><br>
-
+Hey , I am  a fullstack developer and a recent graduate of Le Wagon Tokyo.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al5311245/) 
