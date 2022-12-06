@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey , I am  a fullstack developer and a recent graduate of Le Wagon Tokyo.
+Hey , I am  a fullstack developer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al5311245/) 
