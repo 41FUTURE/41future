@@ -1,5 +1,5 @@
 # 💫 About Me:
- <h1>Hey , I'm Ayhem 👋️ </h1>
+ <h1>Hey, I'm Ayhem 👋️ </h1>
 
 <h3>Full-stack developer based in Tokyo, Japan jp 🇯🇵️ </h3>
 
