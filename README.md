@@ -1,6 +1,7 @@
 # 💫 About Me:
-Hey , I am  a fullstack developer | Ruby On rails|CSS/HTML/BOOTSTRAP|JAVASCRIPT
+Hey , I'm Ayhem 👋️
 
+<h2>Full-stack developer based in Tokyo, Japan jp</h2>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al5311245/) 
 
