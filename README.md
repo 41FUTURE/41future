@@ -3,11 +3,11 @@
 
 # 💫 About Me:
 
-<h3>Full-stack developer based in Tokyo, Japan 🇯🇵️ </h3>
+<h3> Full-stack developer based in Tokyo, Japan 🇯🇵️  </h3>
 
 - 🔭 I’m currently working on **JavaScript30**
 
-- 🌱 I’m currently learning **React, Javascript**
+- 🌱 I’m currently learning **React**
 
 - 🤝 Studied at **Le Wagon Tokyo Batch #1017**
 
