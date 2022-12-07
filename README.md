@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **JavaScript30**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**,**Typescript**
 
 - 🤝 Studied at **Le Wagon Tokyo Batch #1017**
 
