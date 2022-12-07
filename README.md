@@ -11,6 +11,8 @@
 
 - 🤝 Studied at **Le Wagon Tokyo Batch #1017**
 
+- 💢️ Fun fact about me  **I See problems as opportunities **
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al5311245/) 
 
