@@ -1,10 +1,6 @@
  <h1>Hey, I'm Ayhem 👋️ </h1>
 
 
-# 💫 About Me:
-
-<h3> Full-stack developer based in Tokyo, Japan 🇯🇵️  </h3>
-
 - 🔭 I’m currently working on **JavaScript30**
 
 - 🌱 I’m currently learning **React**,**Typescript**
