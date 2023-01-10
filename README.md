@@ -1,12 +1,6 @@
  <h1>Hey, I'm Ayhem 👋️ </h1>
 
 
-- 🔭 I’m currently working on **JavaScript30**
-
-- 🌱 I’m currently learning **React**,**Typescript**
-
-- 🤝 Studied at **Le Wagon Tokyo Batch #1017**
-
 
 
 ## 🌐 Socials:
