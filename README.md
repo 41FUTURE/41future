@@ -1,4 +1,4 @@
- <h1>Hey, I'm Ayhem 👋️ </h1>
+ <h1>Hey, I'm Ayhem </h1>
 
 
 
