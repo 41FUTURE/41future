@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayhem</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
-- 🔭 I’m currently working on **Amazon clone**  which is a full-fledged e-commerce web application. The project involves using React for the frontend, and Rails for the backend. I'm excited about this project because it involves a lot of interesting challenges, such as implementing search functionality, building a shopping cart, and integrating with  stripe payment gateways.<p> 
+- 🔭 I’m currently working on **Amazon clone**  which is a full-fledged e-commerce web application. The project involves using React for the frontend, and Rails for the backend. I'm excited about this project because it involves a lot of interesting challenges, such as implementing search functionality, building a shopping cart, and integrating with  stripe payment gateway.<p> 
 
 - 🌱 I’m currently learning **Java**which is a popular programming language used for building enterprise applications. I'm interested in learning Java because it's widely used in the industry and has a lot of job opportunities.
 
