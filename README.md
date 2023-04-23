@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://aihamch.com/](https://aihamch.com/)
-
 - 💬 Ask me about **React, Rails**
 
 <h3 align="left">Connect with me:</h3>
