@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Amazon clone**  which is a full-fledged e-commerce web application. The project involves using React for the frontend, and Rails for the backend. I'm excited about this project because it involves a lot of interesting challenges, such as implementing search functionality, building a shopping cart, and integrating with  stripe payment gateway.<p> 
 
-- 🌱 I’m currently learning **Java**which is a popular programming language used for building enterprise applications. I'm interested in learning Java because it's widely used in the industry and has a lot of job opportunities.
+- 🌱 I’m currently learning **Java**  which is a popular programming language used for building enterprise applications. I'm interested in learning Java because it's widely used in the industry and has a lot of job opportunities.
 
 - 💬 Ask me about **React, Rails**
   If you have any questions about React or Rails, feel free to ask me. I'm happy to help and share my knowledge.
