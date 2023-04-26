@@ -8,7 +8,6 @@
 - 💬 Ask me about **React, Rails**
   If you have any questions, feel free to ask me. I'm happy to help and share my knowledge 💻.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
