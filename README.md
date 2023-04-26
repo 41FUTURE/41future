@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayhem</h1>
-<h3 align="center">A passionate Full stack developer</h3>
+<h3 align="center">passionate Full stack developer</h3>
 
 - 🔭 I’m currently working on **Amazon clone**  which is a full-fledged e-commerce web application. The project involves using React for the frontend, and Rails for the backend. I'm excited about this project because it involves a lot of interesting challenges, such as implementing search functionality, building a shopping cart, and integrating with  stripe payment gateway.<p> 
 
